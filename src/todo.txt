@@ -1,0 +1,15 @@
+1 components - main, favourites, (add faves, remove from faves, indicator of faves)
+
+2 link api json to main components
+
+3 make grid
+
+4 add to faves
+
+5 remove from faves
+
+6 have faves indicated
+
+7 page of faves
+
+8 styling
